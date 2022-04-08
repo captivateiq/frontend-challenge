@@ -6,28 +6,32 @@
       "id": "42d4c9fa-bb14-4065-be39-609541bb1f72",
       "type": "salesforce",
       "label": "Salesforce",
-      "description": "My Salesforce Connector"
+      "description": "My Salesforce Connector",
+      "img": "https://raw.githubusercontent.com/captivateiq/frontend-challenge/main/images/salesforce.png"
     },
     {
       "object": "connector",
       "id": "ce15e62f-9a41-4d15-afdc-c93a7178218d",
       "type": "postgresql",
       "label": "PostgreSQL",
-      "description": "My PostgreSQL Connector"
+      "description": "My PostgreSQL Connector",
+      "img": "https://raw.githubusercontent.com/captivateiq/frontend-challenge/main/images/postgresql.png"
     },
     {
       "object": "connector",
       "id": "935d0568-5be6-4167-b353-828cfb26be0e",
       "type": "snowflake",
       "label": "Snowflake",
-      "description": "My Snowflake Connector"
+      "description": "My Snowflake Connector",
+      "img": "https://raw.githubusercontent.com/captivateiq/frontend-challenge/main/images/mysql.png"
     },
     {
       "object": "connector",
       "id": "e1fd1c4a-7cc9-49a6-989b-ef5cc33bd863",
       "type": "mysql",
       "label": "MySQL",
-      "description": "My MySQL Connector"
+      "description": "My MySQL Connector",
+      "img": "https://raw.githubusercontent.com/captivateiq/frontend-challenge/main/images/snowflake.png"
     }
   ],
   "total_count": 4
